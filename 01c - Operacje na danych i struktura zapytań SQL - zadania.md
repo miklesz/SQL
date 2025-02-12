@@ -1,4 +1,4 @@
-Skorzystaj z bazy `simple_library_db.csv`
+Skorzystaj z bazy `simple_library.db`
 
 ---
 
